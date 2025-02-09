@@ -5,7 +5,7 @@ Training receipes used for CHAI conversational chatbot.
 ## Dataset
 Converted from https://huggingface.co/ChaiML
 - 50k SFT Data (from https://huggingface.co/datasets/ChaiML/50k_duduk_convo)
-- 20k Preference Data (from ChaiML/public_preference_data_20k)
+- 20k Preference Data (from https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k)
 
 ## Training Pipeline
 Base Model: Mistral-Nemo-13B
